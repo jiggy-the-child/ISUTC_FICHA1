@@ -1,3 +1,4 @@
+# I guess you won't have any trouble understanding this exercise!
 number = int(input('Introduza um número: '))
 
 if (abs(number) % 2 == 0):

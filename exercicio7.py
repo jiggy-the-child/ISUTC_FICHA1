@@ -1,3 +1,4 @@
+# I guess you won't have any trouble understanding this exercise!
 nome1, peso1, altura1 = '', 0, 0
 nome2, peso2, altura2 = '', 0, 0
 for i in range(2):

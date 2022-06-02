@@ -1,4 +1,5 @@
-nome = input('Introduza o nome do candidato: ')
+# I guess you won't have any trouble understanding this exercise!
+nome = str(input('Introduza o nome do candidato: '))
 pt = abs(float(input('Introduza a nota de Português do candidato: ')))
 mt = abs(float(input('Introduza a nota de Matemática do candidato: ')))
 cg = abs(float(input('Introduza a nota de Conhecimentos Gerais do candidato: ')))

@@ -1,3 +1,4 @@
+# I guess you won't have any trouble understanding this exercise!
 a = float(input("Introduza o valor de a: "))
 b = float(input("Introduza o valor de b: "))
 
