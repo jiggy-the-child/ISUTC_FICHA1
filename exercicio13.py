@@ -33,7 +33,7 @@ count_altura = 0
 # aqui pode azedar, mas lá vamos nós:
 for i in range(len(students_list)):
 
-    # Okay... we didn't create a simple list, it was a dictionary list (hope you search about it in the python docs and here goes the link: TODO: put a link here)
+    # Okay... we didn't create a simple list, it was a dictionary list (hope you search about it in the python docs and here goes the link: https://www.python.org/)
     # so, we have a list with a dictionary inside the list, with key and value pairs, 
     # (e.g: 'idade' as key and round(random.uniform(1, 2), 2) as value and they must be separated by ':', but we'll have opportunity to talk about this later on)
     # so, we created a list with a dictionary inside, and we gave values to this dictionary keys. So what we are doing here is,
