@@ -14,6 +14,6 @@ for i in range(len(students_list)):
     else:
         count_fifteen_plus += 1
 
-print(f'A percentagem dos estudantes que entraram menos de 10 vezes no refeitório da universidade é: {round((count_less_ten * 100) / len(students_list), 2)};\
-  \nA percentagem dos estudantes que entraram de [10 à 15] vezes no refeitório da universidade é: {round((count_ten_fifteen * 100) / len(students_list), 2)}\
-  \nA percentagem dos estudantes que entraram mais de 15 vezes no refeitório da universidade é: {round((count_fifteen_plus * 100) / len(students_list), 2)}')
+print(f'A percentagem dos estudantes que entraram menos de 10 vezes no refeitório da universidade é: {round((count_less_ten * 100) / len(students_list), 2)}%;\
+  \nA percentagem dos estudantes que entraram de [10 à 15] vezes no refeitório da universidade é: {round((count_ten_fifteen * 100) / len(students_list), 2)}%;\
+  \nA percentagem dos estudantes que entraram mais de 15 vezes no refeitório da universidade é: {round((count_fifteen_plus * 100) / len(students_list), 2)}%.')
